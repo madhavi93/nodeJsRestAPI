@@ -1,5 +1,5 @@
 {
-  "name": "local-minikube-docker",
+  "name": "simple-node-server-docker",
   "version": "1.0.0",
   "description": "simple nodejs server",
   "main": "index.js",
