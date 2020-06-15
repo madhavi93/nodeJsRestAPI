@@ -1,2 +1,2 @@
-# nodeJsRestAPI
+# NodeJs Rest API
 Simple Rest API
